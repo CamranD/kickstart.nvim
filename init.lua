@@ -691,6 +691,8 @@ require('lazy').setup({
           },
         },
         pyright = {},
+        yamlls = {},
+        dockerls = {},
       }
 
       -- Ensure the servers and tools above are installed
